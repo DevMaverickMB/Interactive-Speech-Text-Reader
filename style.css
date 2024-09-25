@@ -64,7 +64,7 @@ select:focus {
   position: absolute;
   top: 30%;
   left: 50%;
-  transform: translate(-50%, -800px);
+  transform: translate(-50%, -1500px);
   background-color: #00122f;
   color: #fff;
   padding: 20px;
